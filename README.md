@@ -21,5 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfee123-web&show_icons=true&locale=en" alt="alfee123-web" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfee123-web&" alt="alfee123-web" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfee123-web&" alt="alfee123-web" /></p> -->
 
