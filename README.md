@@ -1,9 +1,11 @@
-<h1 align="center">alfee_khan:
+<h1 align="center">alfee_khan:</h1> 
+  ```yaml
   title: "Building digital experiences from scratch"
-  [cite_start]education: "B.Tech CSE @ BBDNIIT, Lucknow" [cite: 22, 23]
-  [cite_start]focus: ["MERN Stack", "DSA with C++"] [cite: 15, 19]
-  creative_side: ["Professional Dancer", "Painter"]
+  education: "B.Tech CSE @ BBDNIIT, Lucknow" 
+  focus: ["MERN Stack", "DSA with C++"] 
+  creative_side: ["Dancer", "Painter"]
   status: "Actively seeking 2026 Summer Internships"
+
 <h3 align="center">Currently learning DSA | Coder | Creating digital experiences from scratch</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_1249867-5464.jpg?semt=ais_incoming&w=740&q=80" >
 
