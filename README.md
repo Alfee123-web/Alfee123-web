@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Alfee Khan<br>I am a B.Tech Computer Science student at BBDNIIT with a passion for engineering seamless full-stack applications and solving complex logic through Data Structures and Algorithms (C++).<br>My goal is to develop efficient, scalable software solutions that bridge the gap between user needs and technical excellence.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Alfee123-web&color=blueviolet)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfeekhan509815340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfeekhan20@gmail.com) 
