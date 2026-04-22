@@ -19,9 +19,11 @@ Hi 👋, I'm Alfee Khan<br>I am a B.Tech Computer Science student at BBDNIIT wit
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Alfee123-web&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Project: DSA in C++
+<a href="https://github.com/Alfee123-web/DSA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfee123-web&repo=DSA&theme=midnight-purple" />
+</a>
 
-[![](https://github-contributor-stats.vercel.app/api?username=Alfee123-web&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)](https://github.com/Alfee123-web/DSA)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
