@@ -20,8 +20,8 @@ Hi 👋, I'm Alfee Khan<br>I am a B.Tech Computer Science student at BBDNIIT wit
 ![](https://github-profile-trophy.vercel.app/?username=Alfee123-web&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alfee123-web&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Alfee123-web&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)](https://github.com/Alfee123-web/DSA-Cpp)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
