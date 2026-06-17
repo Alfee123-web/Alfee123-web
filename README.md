@@ -2,15 +2,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EBFA5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+real-world+full-stack+projects;DSA+in+C%2B%2B+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+real-world+full-stack+projects;DSA+in+C%2B%2B+%7C+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
 - 🔭 I'm currently working on building a full-stack stock trading platform to deepen my backend and real-time data handling skills<br>- 👯 I'm looking to collaborate on full-stack web apps using React, Node.js, and MongoDB<br>- 🌱 I'm currently learning backend architecture, REST APIs, and system design fundamentals<br>- 💬 Ask me about React.js, JavaScript, DSA in C++, or frontend UI/UX patterns
-
-
-
+<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alfee123-web&color=9d4edd)
 
