@@ -37,14 +37,24 @@ A vacation rental discovery platform with dynamic property cards and custom sear
 
 **Frontend & Backend:**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=plastic&logo=ejs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
 
-**Databases:**
+**Databases & ORM:**
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=plastic&logo=mongoose&logoColor=white)
+
+**APIs & Concepts:**
+
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=plastic&logo=fastapi&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-FF6F00?style=plastic&logo=leetcode&logoColor=white)
 
 **Tools & Deployment:**
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+
+## 📊 DSA Progress
+
+Solving consistently in **C++**, auto-tracked via [LeetHub](https://github.com/Alfee123-web) → GitHub — covering hash maps, Floyd's Cycle Detection, Dutch National Flag, and more.
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/W8U5jvSsGu?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/W8U5jvSsGu/)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfee123-web&theme=react-dark&hide_border=true)](https://github.com/Alfee123-web)
