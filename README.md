@@ -51,10 +51,15 @@ A vacation rental discovery platform with dynamic property cards and custom sear
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
-## 📊 DSA Progress
+## 📊 GitHub Stats
 
-Solving consistently in **C++**, auto-tracked via [LeetHub](https://github.com/Alfee123-web) → GitHub — covering hash maps, Floyd's Cycle Detection, Dutch National Flag, and more.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alfee123-web&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfee123-web&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
+</p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/W8U5jvSsGu?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/W8U5jvSsGu/)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfee123-web&theme=dark&hide_border=true&background=00000000" />
+</p>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfee123-web&theme=react-dark&hide_border=true)](https://github.com/Alfee123-web)
