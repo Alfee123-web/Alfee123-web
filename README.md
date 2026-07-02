@@ -62,4 +62,10 @@ A vacation rental discovery platform with dynamic property cards and custom sear
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfee123-web&theme=dark&hide_border=true&background=00000000" />
 </p>
 
+## 📊 DSA Progress
+
+Solving consistently in **C++**, auto-tracked via [LeetHub](https://github.com/Alfee123-web) → GitHub — covering hash maps, Floyd's Cycle Detection, Dutch National Flag, and more.
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/alfeekhan?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/alfeekhan/)
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfee123-web&theme=react-dark&hide_border=true)](https://github.com/Alfee123-web)
