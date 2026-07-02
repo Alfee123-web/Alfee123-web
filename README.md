@@ -1,10 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Alfee%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+real-world+full-stack+projects;DSA+in+C%2B%2B+%7C+Problem+Solver" alt="Typing SVG" />
-  </a>
-</p>
-
 # 💫 About Me:
 - 🔭 I'm currently working on building a full-stack stock trading platform to deepen my backend and real-time data handling skills
 - 👯 I'm looking to collaborate on full-stack web apps using React, Node.js, and MongoDB
