@@ -47,12 +47,12 @@ A vacation rental discovery platform with dynamic property cards and custom sear
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alfee123-web&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfee123-web&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
+ <img src="https://github-readme-stats-yourname.vercel.app/api?username=Alfee123-web&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
+<img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=Alfee123-web&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfee123-web&theme=dark&hide_border=true&background=00000000" />
+ <img src="https://streak-stats.demolab.com/?user=Alfee123-web&theme=dark&hide_border=true&background=00000000" />
 </p>
 
 ## 📊 DSA Progress
