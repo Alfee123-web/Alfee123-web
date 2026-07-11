@@ -11,16 +11,21 @@
 
 ## 🚀 Featured Projects
 
-### 🎵 Mini-Spotify
-A music streaming web app with custom audio player, playlist management, and real-time track progress.
-**Tech:** HTML5, CSS3, JavaScript (ES6)
-🔗 [Live Demo](https://mini-spotify-one.vercel.app/) | [Source Code](https://github.com/Alfee123-web/Mini-Spotify)
+### 🌊 Wanderly
+A full-stack Airbnb-style rental listing platform where users can browse, list, and review property rentals — featuring image uploads, interactive maps, and secure authentication.
 
-### 🏡 Stay-Finder
-A vacation rental discovery platform with dynamic property cards and custom search filtering.
-**Tech:** HTML5, CSS3, JavaScript (ES6)  
+**Tech:** Node.js, Express, MongoDB, Mongoose, EJS, Bootstrap 5, Passport.js, Cloudinary, Mapbox GL JS
 
-🔗 [Live Demo](https://alfee-stay-finder.vercel.app/) | [Source Code](https://github.com/Alfee123-web/Stay-Finder)
+**Features:**
+- 🏠 Browse, create, edit & delete property listings
+- 🖼️ Image uploads via Cloudinary
+- 🗺️ Interactive maps with Mapbox geocoding
+- ⭐ Star-rated reviews on listings
+- 🔐 User authentication with Passport.js
+- 📱 Fully responsive, custom-themed UI
+
+🔗 [Live Demo](https://wanderly-three-opal.vercel.app) | [Source Code](https://github.com/Alfee123-web/Wanderly)
+
 
 # 💻 Tech Stack:
 
@@ -35,6 +40,10 @@ A vacation rental discovery platform with dynamic property cards and custom sear
 **Databases & ORM:**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=plastic&logo=mongoose&logoColor=white)
+
+**Auth & Media:**
+
+![Passport](https://img.shields.io/badge/Passport.js-34E27A?style=plastic&logo=passport&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=plastic&logo=cloudinary&logoColor=white) ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=plastic&logo=mapbox&logoColor=white)
 
 **APIs & Concepts:**
 
