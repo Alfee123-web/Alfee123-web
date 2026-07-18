@@ -15,14 +15,11 @@
 ### 🌊 Wanderly
 A full-stack Airbnb-style rental listing platform where users can browse, list, and review property rentals — featuring image uploads, interactive maps, and secure authentication.
 
-![Wanderly Screenshot](./assets/wanderly-preview.png)
-
 🔗 [Live Demo](https://wanderly-three-opal.vercel.app) | [Source Code](https://github.com/Alfee123-web/Wanderly)
 
 ### 🌦️ Weather App (Material UI + React)
 A slick, responsive web application that fetches and displays real-time weather conditions for any searched city, built to practice component architecture and framework integration.
 
-![Weather App Screenshot](./assets/weather-app-preview.png)
 
 🔗 [Live Demo](https://weather-app-material-ui.vercel.app/) | [Source Code](https://github.com/Alfee123-web/Weather-App-MaterialUI)
 
