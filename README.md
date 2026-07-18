@@ -14,29 +14,10 @@
 
 ### 🌦️ Weather App (Material UI + React)
 A slick, responsive web application that fetches and displays real-time weather conditions for any searched city, built to practice component architecture and framework integration.
-
-**Tech:** React.js, Vite, Material UI (MUI), JavaScript, REST API
-
-**Features:**
-- 🔍 **Real-Time Search:** Instantly fetches current temperature, humidity, and wind conditions for any city.
-- 🎨 **MUI Design System:** Leverages Material UI Cards, text inputs, and dynamic layout grids.
-- ⚡ **Optimized Core:** Built on top of Vite for hyper-fast frontend rendering and modern build pipelines.
-
 🔗 [Live Demo](https://weather-app-material-ui.vercel.app/) | [Source Code](https://github.com/Alfee123-web/Weather-App-MaterialUI)
 
 ### 🌊 Wanderly
 A full-stack Airbnb-style rental listing platform where users can browse, list, and review property rentals — featuring image uploads, interactive maps, and secure authentication.
-
-**Tech:** Node.js, Express, MongoDB, Mongoose, EJS, Bootstrap 5, Passport.js, Cloudinary, Mapbox GL JS
-
-**Features:**
-- 🏠 Browse, create, edit & delete property listings
-- 🖼️ Image uploads via Cloudinary
-- 🗺️ Interactive maps with Mapbox geocoding
-- ⭐ Star-rated reviews on listings
-- 🔐 User authentication with Passport.js
-- 📱 Fully responsive, custom-themed UI
-
 🔗 [Live Demo](https://wanderly-three-opal.vercel.app) | [Source Code](https://github.com/Alfee123-web/Wanderly)
 
 
