@@ -1,4 +1,4 @@
-# # 💫 About Me:
+# 💫 About Me:
 - 🔭 I'm currently working on building a full-stack stock trading platform to deepen my backend and real-time data handling skills.
 - ⚛️ Deeply focused on building modern frontend experiences with **React** and the **MERN stack**.
 - 👯 I'm looking to collaborate on full-stack web apps using React, Node.js, and MongoDB.
@@ -12,16 +12,21 @@
 
 ## 🚀 Featured Projects
 
-### 🌦️ Weather App (Material UI + React)
-A slick, responsive web application that fetches and displays real-time weather conditions for any searched city, built to practice component architecture and framework integration.
-🔗 [Live Demo](https://weather-app-material-ui.vercel.app/) | [Source Code](https://github.com/Alfee123-web/Weather-App-MaterialUI)
-
 ### 🌊 Wanderly
 A full-stack Airbnb-style rental listing platform where users can browse, list, and review property rentals — featuring image uploads, interactive maps, and secure authentication.
+
+![Wanderly Screenshot](./assets/wanderly-preview.png)
+
 🔗 [Live Demo](https://wanderly-three-opal.vercel.app) | [Source Code](https://github.com/Alfee123-web/Wanderly)
 
+### 🌦️ Weather App (Material UI + React)
+A slick, responsive web application that fetches and displays real-time weather conditions for any searched city, built to practice component architecture and framework integration.
 
-# 💻 Tech Stack
+![Weather App Screenshot](./assets/weather-app-preview.png)
+
+🔗 [Live Demo](https://weather-app-material-ui.vercel.app/) | [Source Code](https://github.com/Alfee123-web/Weather-App-MaterialUI)
+
+## 💻 Tech Stack
 
 ### 🚀 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -41,8 +46,8 @@ A full-stack Airbnb-style rental listing platform where users can browse, list, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-yourname.vercel.app/api?username=Alfee123-web&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=Alfee123-web&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfee123-web&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfee123-web&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
@@ -56,4 +61,3 @@ Solving consistently in **C++**, auto-tracked via [LeetHub](https://github.com/A
 [![LeetCode Stats](https://leetcard.jacoblin.cool/alfeekhan?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/alfeekhan/)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfee123-web&theme=react-dark&hide_border=true)](https://github.com/Alfee123-web)
-
