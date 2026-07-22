@@ -1,4 +1,5 @@
 # 💫 About Me:
+**CS student turning coursework into shipped, full-stack products — one project at a time.**
 - 🔭 I'm currently working on building a full-stack stock trading platform to deepen my backend and real-time data handling skills.
 - ⚛️ Deeply focused on building modern frontend experiences with **React** and the **MERN stack**.
 - 👯 I'm looking to collaborate on full-stack web apps using React, Node.js, and MongoDB.
