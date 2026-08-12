@@ -24,19 +24,4 @@ A slick, responsive web application that fetches and displays real-time weather 
 ## 💻 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Material UI](https://img.shields.io/badge/Material--UI-%2300B0FF.svg?style=flat&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfee123-web&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfee123-web&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Alfee123-web&theme=dark&hide_border=true&background=00000000" />
-</p>
-
-## 📊 DSA Progress
-
-Solving consistently in **C++**, auto-tracked via [LeetHub](https://github.com/Alfee123-web) → GitHub — covering hash maps, Floyd's Cycle Detection, Dutch National Flag, and more.
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/alfeekhan?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/alfeekhan/)
