@@ -3,6 +3,7 @@
 **CS student turning coursework into shipped, full-stack products.**
 - 🔭 Currently building **RenewVault** — a full-stack subscription & renewal tracker (Next.js, PostgreSQL, Prisma)
 - ⚛️ Focused on **React**, **Next.js**, and the **MERN stack**
+- 🧠 200+ DSA problems solved in C++ on LeetCode
 - 💬 Ask me about React.js, Next.js, DSA in C++, or full-stack architecture
 
 ## 🌐 Socials
@@ -12,6 +13,8 @@
 
 ### 🔐 RenewVault
 Full-stack subscription & renewal tracking dashboard — auth, PostgreSQL + Prisma backend, automated reminder emails via cron jobs.
+
+![RenewVault Dashboard](https://raw.githubusercontent.com/Alfee123-web/renewvault/main/public/screenshots/dashboard-preview.png)
 
 🔗 [Live](https://www.renewvault.me/) | [Source](https://github.com/Alfee123-web/renewvault)
 
