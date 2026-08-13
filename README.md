@@ -14,12 +14,14 @@
 ### 🔐 RenewVault
 Full-stack subscription & renewal tracking dashboard — auth, PostgreSQL + Prisma backend, automated reminder emails via cron jobs.
 
-<img src="https://raw.githubusercontent.com/Alfee123-web/renewvault/main/public/screenshots/dashboard-preview.png" alt="RenewVault Dashboard" width="600"/>
+<img src="https://raw.githubusercontent.com/Alfee123-web/renewvault/main/public/screenshots/dashboard-preview.png" alt="RenewVault Dashboard" width="600" height="290"/>
 
 🔗 [Live](https://www.renewvault.me/) | [Source](https://github.com/Alfee123-web/renewvault)
 
 ### 🌊 Wanderly
 Airbnb-style rental listing platform with image uploads, interactive maps, and secure authentication.
+
+<img src="https://github.com/user-attachments/assets/67a635b9-621b-4fcd-be2d-d5c877b945a4" alt="Wanderly Preview" width="600" height="290"/>
 
 🔗 [Live](https://wanderly-three-opal.vercel.app) | [Source](https://github.com/Alfee123-web/Wanderly)
 
