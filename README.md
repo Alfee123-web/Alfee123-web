@@ -3,7 +3,7 @@
 **CS student turning coursework into shipped, full-stack products.**
 - 🔭 Currently building **RenewVault** — a full-stack subscription & renewal tracker (Next.js, PostgreSQL, Prisma)
 - ⚛️ Focused on **React**, **Next.js**, and the **MERN stack**
-- 🧠 120+ DSA problems solved in C++ on LeetCode
+- 🧠 200+ DSA problems solved in C++ on LeetCode
 - 💬 Ask me about React.js, Next.js, DSA in C++, or full-stack architecture
 
 ## 🌐 Socials
